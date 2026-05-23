@@ -4,10 +4,10 @@ Exercises from Helsinki University's Massive Open Online Course (MOOC.fi)
 
 ## 🎓 Certificate & Stats
 
-[![Java Certificate](https://shields.io)](https://certificates.mooc.fi/validate/hs4d5xpyajt)
+[![Java Certificate](https://img.shields.io/badge/MOOC.fi-Java%20Certificate-blue)](https://certificates.mooc.fi/validate/hs4d5xpyajt)
 
-![Repo Size](https://shields.io)
-![Last Commit](https://shields.io)
+![Repo Size](https://img.shields.io/github/repo-size/taivv-cs/mooc.fi-Java-Programming-I)
+![Last Commit](https://img.shields.io/github/last-commit/taivv-cs/mooc.fi-Java-Programming-I)
 
 > 🔗 **[Click here to view my official certificate](https://certificates.mooc.fi/validate/hs4d5xpyajt)**
 

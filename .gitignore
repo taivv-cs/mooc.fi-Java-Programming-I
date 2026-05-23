@@ -1,7 +1,7 @@
 target/
 
 .idea/
-*.iml 
+*.iml
 .vscode/
 .project
 .classpath
@@ -9,3 +9,5 @@ target/
 
 .DS_store
 Thumbs.db
+.tmc.json
+progress.sh
